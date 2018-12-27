@@ -1,0 +1,153 @@
+{
+ "address": "1PNTRcgvsX5MzwJKk4zcJrY8qmMxG5spQ7",
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "Basic painting app.",
+ "files": {
+  "appmanifest.json": {
+   "sha512": "8da643ca66e0a1fae8161c1d2b4d4c4a2561e22582250d4ef60e2f2b0f700ae3",
+   "size": 538
+  },
+  "c2runtime.js": {
+   "sha512": "7f7f5cd52e0260bb8380e672c94a4bdd799ffbbdfbd44cb29cfa836abe2c5174",
+   "size": 811037
+  },
+  "c2webappstart.js": {
+   "sha512": "7ae719cffb1eec065f7c87a0cdcd8c78c24485b04d951ba7d55adeb10de4836c",
+   "size": 813
+  },
+  "data.js": {
+   "sha512": "70b99ff1649db33b1c4137d3168451079c28e103683c5cc406ed25c7cac25000",
+   "size": 9848
+  },
+  "desktop.ini": {
+   "sha512": "16d197e66d8339a5b7f77c7b34bbcc77dd5bfa316721eb24a3feed25d7ca8536",
+   "size": 44
+  },
+  "icon-114.png": {
+   "sha512": "9337ae0fa880a7be1ffa9f7f5ba39a12654eef569a66e151e6730327d2549b23",
+   "size": 24239
+  },
+  "icon-128.png": {
+   "sha512": "0b09841fb3e3d8ac53179a3d9d8ff0d1afe2a2c824f54f47e4b5d7ded925747b",
+   "size": 30444
+  },
+  "icon-16.png": {
+   "sha512": "414ae1583b71c61e82357b156bf7ee8ee425f666f3f63cd4604e71a05136840e",
+   "size": 933
+  },
+  "icon-256.png": {
+   "sha512": "6fa99b90bafdccb0e8d796d0b2bc81c973f7722d03d0d2a027c0f854e0022c37",
+   "size": 91455
+  },
+  "icon-32.png": {
+   "sha512": "3de4b5ca8b611927773331a11e724b84f1f64be13d445bda021856be33635aad",
+   "size": 2830
+  },
+  "icon.ico": {
+   "sha512": "9d41af7328f61c25f387b5ac58168c86d2992cca9f4c9cded15a5ecd296f44f5",
+   "size": 4026
+  },
+  "icon.png": {
+   "sha512": "28177eda97cedbd0e40b4149178ce610d50f393993719f583462e2f73c4ad234",
+   "size": 414
+  },
+  "images/canvas.png": {
+   "sha512": "aea490470f7603f0d42c6d28bd6f0952df17f5ae23a7f1be00b9421e6011b225",
+   "size": 148
+  },
+  "images/canvascolor-sheet0.png": {
+   "sha512": "6dc925dfdce6afe5345ef69d55b4d0de4fa0e9215b08d7c945e7c32acb7d1ac0",
+   "size": 1231
+  },
+  "images/canvaspen-sheet0.png": {
+   "sha512": "b800c42d8d60e4a6572ba6ce3cc049322c87305089cd0e6b252b3b5016865ecf",
+   "size": 545
+  },
+  "images/canvaspen-sheet1.png": {
+   "sha512": "3473ef3b80e782251b325887dc3a742acd98fb3ade0aed7f16ee31c69633b252",
+   "size": 707
+  },
+  "images/clear-sheet0.png": {
+   "sha512": "0ba8b784043deddae6b768cd2a2801fd1fe4f994283cd1527ee9fc90998adc82",
+   "size": 352
+  },
+  "images/color-sheet0.png": {
+   "sha512": "1fca1cd2188e1fb65213478c9f8d897a799ec1f8929676eec6c88b3aabdb6a03",
+   "size": 657
+  },
+  "images/color-sheet1.png": {
+   "sha512": "9b042a01cd0b4a0b0312e00b3c912d0d5fa3b8fd8e2689c24225bab1d2046bb7",
+   "size": 797
+  },
+  "images/cpen-sheet0.png": {
+   "sha512": "74617d3abe51f8291926d2d62020bb13f35afd8085c78901d973564f0f59cdef",
+   "size": 863
+  },
+  "images/cpen-sheet1.png": {
+   "sha512": "02190021da5e0b40f221088ecdb46cffd5a289298e2d70d561b74f8b3e83b919",
+   "size": 982
+  },
+  "images/pen_crsr-sheet0.png": {
+   "sha512": "b8b9d4c53078f992f00590860773919bc566e404235daa5683997e46d958f42c",
+   "size": 184
+  },
+  "images/rubber-sheet0.png": {
+   "sha512": "ee8e9b5c715e293a871ab9e4ef44d8667aec336aeef2eb2dda280e075b59b508",
+   "size": 556
+  },
+  "images/rubber-sheet1.png": {
+   "sha512": "69c155972f08358c2869fea58898b23dfaa0868137821cda4842146789f24a71",
+   "size": 717
+  },
+  "images/rubber_crsr-sheet0.png": {
+   "sha512": "287d712d9630982a1d36e9f2498ad239e47ddf8e39f37d7ec93ce31b391f99f0",
+   "size": 98
+  },
+  "images/status.png": {
+   "sha512": "c89760e0a82aa683dfbc93b568bccf389411533282caa9865e17bad9ee02d9de",
+   "size": 90
+  },
+  "index.html": {
+   "sha512": "6187606024ea53f0d7ab32596368ba73391ac8b261e0376dbe227a462a97f2dd",
+   "size": 2774
+  },
+  "jquery-2.1.1.min.js": {
+   "sha512": "58316ac04b80dbdc3210a2dfc214c7571238476186e2377366683f9b2ed2d2b5",
+   "size": 84248
+  },
+  "loading-logo.png": {
+   "sha512": "3cb8609fae3278dd84cce8a4844fa3e7ce0af3ad4697ab1b5d9b35d217a70fe3",
+   "size": 8837
+  },
+  "offline.appcache": {
+   "sha512": "be8654cfd12a9ad62c3af4bac6ba75dfa4250c1a2ec3a0e846f0ae813d27eb12",
+   "size": 572
+  },
+  "offline.js": {
+   "sha512": "773bf9809642fbfe60a1b18a74f35b52bbc1f917d88f6900a4689b65c68610fa",
+   "size": 703
+  },
+  "offlineClient.js": {
+   "sha512": "4bb5b3d418ba69f2e92a20817bec45f9a882451cf991930b36c4e63415c28b0d",
+   "size": 1434
+  },
+  "sw.js": {
+   "sha512": "fb83ebd8bf1a3480a825d0141a1a6dab678f03b52bca71a5a9a591766cabf9ef",
+   "size": 11532
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1541627122,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HOzagkDuMyD12w6edgYfMXRYnuA8oPzMoh71Jh+pameKVrzUZWQGw9U+u8kaeR/3xzKlnef4RoPc6//ZfHIeVPA=",
+ "signs": {
+  "1PNTRcgvsX5MzwJKk4zcJrY8qmMxG5spQ7": "G+ngli9Shtrm2R27q/66sJnx14Ht8ahVOHRTEvOJbMrgG73Ym2JZssMNG3ff3Ek01clRBwCt5AYFPtTizKP/hhA="
+ },
+ "signs_required": 1,
+ "title": "Painter",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.4"
+}
